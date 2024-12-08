@@ -10,4 +10,15 @@ Pdf Link
 
 
 Home Page
+![image alt](https://github.com/MJNSampath07/Greeniify-Redefining-Green/blob/main/Greeniify%20Images/Home%20Page.jpeg?raw=true)
+
+
+
+Product Page
+![image alt](https://github.com/MJNSampath07/Greeniify-Redefining-Green/blob/main/Greeniify%20Images/Product%20Page.jpeg?raw=true)
+
+
+
+Cart Page
+![image alt](https://github.com/MJNSampath07/Greeniify-Redefining-Green/blob/main/Greeniify%20Images/Cart.jpeg?raw=true)
 
