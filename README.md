@@ -7,3 +7,4 @@ Greeniify is a website that connects waste producers, such as households and bus
 
 
 Home Page
+![pdf alt](https://acrobat.adobe.com/id/urn:aaid:sc:AP:9cf1db9e-f2ae-4d33-885c-5ef8f733d506)
